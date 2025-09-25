@@ -2,6 +2,7 @@ site_name: Yilin Fang
 site_url: https://yilinfang.top
 site_description: Personal website of Yilin Fang
 site_author: Yilin Fang
+copyright: Copyright &copy; 2025 Yilin Fang. All rights reserved.
 theme:
   name: material
   icon:
